@@ -1,5 +1,6 @@
 # ALSPT-Environment-Recruitment-Relationships
-Data and code associated with the manuscript titled "Extreme Environmental Conditions Are Associated with Poor Recruitment of an Estuarine Sportfish" by Coffill-Rivera et al., currently under peer review.
+Data and code associated with the manuscript titled "Extreme Environmental Conditions Are Associated with Poor Recruitment of an Estuarine Sportfish" by Coffill-Rivera et al., currently under peer review. Preprint available at https://dx.doi.org/10.2139/ssrn.6249699
+
 Questions can be directed at manuelcoffill@gmail.com
 
 To reproduce code, the following steps are recommended:
